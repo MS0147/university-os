@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\ms_01\desktop\os_03\project1\main.cpp(120): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\os_03\project1\main.cpp(144): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\os_03\project1\main.cpp(188): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\os_03\project1\main.cpp(209): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\os_03\project1\main.cpp(252): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project1.vcxproj -> C:\Users\ms_01\Desktop\OS_03\Debug\Project1.exe

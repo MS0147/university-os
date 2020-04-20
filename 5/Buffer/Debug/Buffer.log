@@ -1,0 +1,16 @@
+﻿  main.cpp
+c:\users\ms_01\desktop\thingofdid\2-2\os\new\김민석_2016104106_운영체제과제6\buffer\main.cpp(79): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\thingofdid\2-2\os\new\김민석_2016104106_운영체제과제6\buffer\main.cpp(93): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\thingofdid\2-2\os\new\김민석_2016104106_운영체제과제6\buffer\main.cpp(99): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\thingofdid\2-2\os\new\김민석_2016104106_운영체제과제6\buffer\main.cpp(102): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\thingofdid\2-2\os\new\김민석_2016104106_운영체제과제6\buffer\main.cpp(124): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\thingofdid\2-2\os\new\김민석_2016104106_운영체제과제6\buffer\main.cpp(160): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\thingofdid\2-2\os\new\김민석_2016104106_운영체제과제6\buffer\main.cpp(188): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\thingofdid\2-2\os\new\김민석_2016104106_운영체제과제6\buffer\main.cpp(219): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\thingofdid\2-2\os\new\김민석_2016104106_운영체제과제6\buffer\main.cpp(232): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\thingofdid\2-2\os\new\김민석_2016104106_운영체제과제6\buffer\main.cpp(245): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\thingofdid\2-2\os\new\김민석_2016104106_운영체제과제6\buffer\main.cpp(259): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\thingofdid\2-2\os\new\김민석_2016104106_운영체제과제6\buffer\main.cpp(263): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\thingofdid\2-2\os\new\김민석_2016104106_운영체제과제6\buffer\main.cpp(291): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ms_01\desktop\thingofdid\2-2\os\new\김민석_2016104106_운영체제과제6\buffer\main.cpp(295): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Buffer.vcxproj -> C:\Users\ms_01\Desktop\ThingOfDid\2-2\OS\New\김민석_2016104106_운영체제과제6\Debug\Buffer.exe
